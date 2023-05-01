@@ -1,4 +1,4 @@
-### Custom Carousel :carousel_horse:
+## Custom Carousel :carousel_horse:
 
 Custom Carousel is a package that comes with the idea of making life easier for the developer who needs to add a carousel to his flutter project. We are currently at version: 0.0.1 
 
@@ -31,6 +31,8 @@ CustomCarousel(
 ```
 
 **View**
+
+![Gravação de tela de 01-05-2023 12_33_07](https://user-images.githubusercontent.com/53130191/235479852-e4b23828-212c-4fbd-813e-e0bb091d3aa5.gif)
 
 
 
